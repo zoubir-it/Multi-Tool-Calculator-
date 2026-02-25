@@ -30,15 +30,15 @@ It features a standard calculator with parentheses support, custom implementatio
 
 · Currency (real-time via API or manual rate).
 
-· Length (meter, km, mile, etc.).
+· Length (meter, km, mile, etc...).
 
-· Mass (kg, g, lb, etc.).
+· Mass (kg, g, lb, etc...).
 
-· Speed (km/h, m/s, mph).
+· Speed (km/h, m/s, mph...).
 
-· Area (m², km², acre, etc.).
+· Area (m², km², acre, etc...).
 
-· Date counter (days between two dates).
+· Date counter (years, months, days between two dates).
 
 · Discount calculator (percentage off).
 
