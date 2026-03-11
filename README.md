@@ -32,12 +32,24 @@ Currency – 14 currencies with predefined exchange rates.
 
 
 
+<<<<<<< HEAD
 Length – 8 units (meter, kilometer, mile, foot, inch, etc.).
 
 
 
 Mass – 8 units (gram, kilogram, pound, ounce, etc.).
 
+=======
+· Length (meter, km, mile, etc...).
+
+· Mass (kg, g, lb, etc...).
+
+· Speed (km/h, m/s, mph...).
+
+· Area (m², km², acre, etc...).
+
+· Date counter (years, months, days between two dates).
+>>>>>>> 49f3bb2fcfa25c60f1c0cc1c27615b608e927677
 
 
 Speed – 8 units (m/s, km/h, mph, knot, etc.).
